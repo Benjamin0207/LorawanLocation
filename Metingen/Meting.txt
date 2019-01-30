@@ -1,0 +1,118 @@
+Gang:
+A1: vives-ttn-01: -51; vives-ttn-03: -73; eui-1dee09c05d572b28: -89
+A2: vives-ttn-01: -60; vives-ttn-03: -79; eui-1dee09c05d572b28: -89; eui-7276ff002e0627a3: -121
+B1: vives-ttn-01: -66; vives-ttn-03: -65; eui-1dee09c05d572b28: -84;
+B2: vives-ttn-01: -71; vives-ttn-03: -66; eui-1dee09c05d572b28: -79;
+
+C1: vives-ttn-01: -61; vives-ttn-03: -70; eui-1dee09c05d572b28: -85;
+C2: vives-ttn-01: -83; vives-ttn-03: -70; eui-1dee09c05d572b28: -105;
+D1: vives-ttn-01: -75; vives-ttn-03: -57; eui-1dee09c05d572b28: -73;
+D2: vives-ttn-01: -73; vives-ttn-03: -60; eui-1dee09c05d572b28: -77;
+
+E1: vives-ttn-01: -83; vives-ttn-03: -59; eui-1dee09c05d572b28: -78;
+E2: vives-ttn-01: -72; vives-ttn-03: -67; eui-1dee09c05d572b28: -72;
+F1: vives-ttn-01: -74; vives-ttn-03: -61; eui-1dee09c05d572b28: -78; eui-7276ff002e0627a3: -122
+F2: vives-ttn-01: -89; vives-ttn-03: -48; eui-1dee09c05d572b28: -77;
+
+G1: vives-ttn-01: -85; vives-ttn-03: -60; eui-1dee09c05d572b28: -66; 0000024b080309d7: -120
+G2: vives-ttn-01: -79; vives-ttn-03: -60; eui-1dee09c05d572b28: -81;
+H1: vives-ttn-01: -84; vives-ttn-03: -69; eui-1dee09c05d572b28: -78; eui-7276ff002e0627a3: -118; 0000024b080309d7: -119
+H2: vives-ttn-01: -79; vives-ttn-03: -57; eui-1dee09c05d572b28: -79; 0000024b080309d7: -118
+
+I1: vives-ttn-01: -93; vives-ttn-03: -78; eui-1dee09c05d572b28: -66;
+I2: vives-ttn-01: -87; vives-ttn-03: -76;
+J1: vives-ttn-01: -101; vives-ttn-03: -85; eui-1dee09c05d572b28: -64;
+J2: vives-ttn-01: -104; vives-ttn-03: -84; eui-1dee09c05d572b28: -74;
+
+K1: vives-ttn-01: -101; vives-ttn-03: -91; eui-1dee09c05d572b28: -49;
+K2: vives-ttn-01: -100; vives-ttn-03: -81; eui-1dee09c05d572b28: -78;
+
+Hal1:
+H3: vives-ttn-01: -85; vives-ttn-03: -75; eui-1dee09c05d572b28: -55;
+H4: vives-ttn-01: -96; vives-ttn-03: -65; eui-1dee09c05d572b28: -75;
+H5: vives-ttn-01: -91; vives-ttn-03: -63; eui-1dee09c05d572b28: -79; eui-7276ff002e0627a3: -117 
+H6: vives-ttn-01: -97; vives-ttn-03: -61; eui-1dee09c05d572b28: -69; eui-7276ff002e0627a3: -116
+H7: vives-ttn-01: -95; vives-ttn-03: -78; eui-1dee09c05d572b28: -71; eui-7276ff002e0627a3: -114
+H8: vives-ttn-01: -90; vives-ttn-03: -71; eui-1dee09c05d572b28: -78;
+H9: vives-ttn-01: -93; vives-ttn-03: -75; eui-1dee09c05d572b28: -53;
+H10: vives-ttn-01: -97; vives-ttn-03: -73; eui-1dee09c05d572b28: -60; eui-7276ff002e0627a3: -112; 0000024b080309d7: -119
+
+Hal2:
+K3: vives-ttn-01: -101; vives-ttn-03: -102; eui-1dee09c05d572b28: -69;
+K4: vives-ttn-01: -114; vives-ttn-03: -97; eui-1dee09c05d572b28: -69;
+K5: vives-ttn-01: -107; vives-ttn-03: -101; eui-1dee09c05d572b28: -61; eui-7276ff002e0627a3: -123
+K6: vives-ttn-01: -107; vives-ttn-03: -91; eui-1dee09c05d572b28: -55;
+K7: vives-ttn-01: -107; vives-ttn-03: -97; eui-1dee09c05d572b28: -53;
+K8: vives-ttn-03: -104; eui-1dee09c05d572b28: -54;
+K9: vives-ttn-01: -109; vives-ttn-03: -96; eui-1dee09c05d572b28: -60;
+K10: vives-ttn-01: -108; vives-ttn-03: -85; eui-1dee09c05d572b28: -57; eui-7276ff002e0627a3: -111
+
+Hal3:
+I9: vives-ttn-01: -105; vives-ttn-03: -83; eui-1dee09c05d572b28: -57;
+I10: vives-ttn-01: -103; vives-ttn-03: -77; eui-1dee09c05d572b28: -55;
+J9: vives-ttn-01: -111; vives-ttn-03: -86; eui-1dee09c05d572b28: -49; eui-7276ff002e0627a3: -116
+J10: vives-ttn-01: -105; vives-ttn-03: -97; eui-1dee09c05d572b28: -59; eui-7276ff002e0627a3: -117; 0000024b080309d7: -117
+
+Leslokaal 85:
+A3: vives-ttn-01: -57; vives-ttn-03: -71; eui-1dee09c05d572b28: -99; 0000024b080309d7: -117
+A4: vives-ttn-01: -54; vives-ttn-03: -72; eui-1dee09c05d572b28: -102; 0000024b080309d7: -120
+A5: vives-ttn-01: -43; vives-ttn-03: -75; eui-1dee09c05d572b28: -100; eui-7276ff002e0627a3: -122
+A6: vives-ttn-01: -39; vives-ttn-03: -75; eui-1dee09c05d572b28: -105; eui-7276ff002e0627a3: -121
+A7: vives-ttn-01: -42; vives-ttn-03: -79; eui-1dee09c05d572b28: -101; eui-7276ff002e0627a3: -123
+A8: vives-ttn-01: -43; vives-ttn-03: -95; eui-1dee09c05d572b28: -106;
+A9: vives-ttn-01: -37; vives-ttn-03: -75; eui-1dee09c05d572b28: -95;
+A10: vives-ttn-01: -51; vives-ttn-03: -79; eui-1dee09c05d572b28: -105; eui-7276ff002e0627a3: -113; 0000024b080309d7: -117
+
+Leslokaal 80:
+B3: vives-ttn-01: -55; vives-ttn-03: -72; eui-1dee09c05d572b28: -96; eui-7276ff002e0627a3: -125
+B4: vives-ttn-01: -59; vives-ttn-03: -85; eui-1dee09c05d572b28: -105; eui-7276ff002e0627a3: -124
+B5: vives-ttn-01: -66; vives-ttn-03: -73; eui-1dee09c05d572b28: -105;
+B6: vives-ttn-01: -60; vives-ttn-03: -75; eui-1dee09c05d572b28: -102;
+
+B7: vives-ttn-01: -57; vives-ttn-03: -77; eui-1dee09c05d572b28: -93; eui-7276ff002e0627a3: -117
+B8: vives-ttn-01: -53; vives-ttn-03: -71; eui-1dee09c05d572b28: -101;
+B9: vives-ttn-01: -52; vives-ttn-03: -79; eui-1dee09c05d572b28: -102;
+B10: vives-ttn-01: -60; vives-ttn-03: -72; eui-1dee09c05d572b28: -101;
+
+C3: vives-ttn-01: -67; vives-ttn-03: -75; eui-1dee09c05d572b28: -100;
+C4: vives-ttn-01: -63; eui-1dee09c05d572b28: -99;
+C5: vives-ttn-01: -71; vives-ttn-03: -69; eui-1dee09c05d572b28: -107;
+C6: vives-ttn-01: -69; vives-ttn-03: -71; eui-1dee09c05d572b28: -113;
+
+C7: vives-ttn-01: -66; vives-ttn-03: -73;
+C8: vives-ttn-01: -68; vives-ttn-03: -71; eui-1dee09c05d572b28: -94;
+C9: vives-ttn-01: -57; vives-ttn-03: -69; eui-1dee09c05d572b28: -103;
+C10: vives-ttn-01: -66; vives-ttn-03: -77; eui-1dee09c05d572b28: -102; eui-7276ff002e0627a3: -121
+
+Leslokaal 75:
+D3: vives-ttn-01: -66; vives-ttn-03: -55; eui-1dee09c05d572b28: -87;
+D4: vives-ttn-01: -66; vives-ttn-03: -51; eui-1dee09c05d572b28: -105;
+D5: vives-ttn-01: -91; vives-ttn-03: -63; eui-1dee09c05d572b28: -95; eui-7276ff002e0627a3: -119
+D6: vives-ttn-01: -67; vives-ttn-03: -58; eui-1dee09c05d572b28: -101;
+
+D7: vives-ttn-01: -61; vives-ttn-03: -61; eui-1dee09c05d572b28: -93; eui-7276ff002e0627a3: -122
+D8: vives-ttn-01: -66; vives-ttn-03: -58; eui-1dee09c05d572b28: -88;
+D9: vives-ttn-01: -69; vives-ttn-03: -55; eui-1dee09c05d572b28: -96;
+D10: vives-ttn-01: -64; vives-ttn-03: -54; eui-1dee09c05d572b28: -90; eui-7276ff002e0627a3: -121
+
+Leslokaal 85:
+E3: vives-ttn-01: -72; vives-ttn-03: -60; eui-1dee09c05d572b28: -87; eui-7276ff002e0627a3: -122
+E4: vives-ttn-01: -83; vives-ttn-03: -40; eui-1dee09c05d572b28: -84;
+E5: vives-ttn-01: -73; vives-ttn-03: -42; eui-1dee09c05d572b28: -89;
+E6: vives-ttn-01: -75; vives-ttn-03: -51; eui-1dee09c05d572b28: -83;
+
+E7: vives-ttn-01: -81; vives-ttn-03: -49; eui-1dee09c05d572b28: -97; eui-7276ff002e0627a3: -121
+E8: vives-ttn-01: -78; vives-ttn-03: -65; eui-1dee09c05d572b28: -83;
+E9: vives-ttn-01: -78; vives-ttn-03: -48; eui-1dee09c05d572b28: -85; eui-7276ff002e0627a3: -114
+E10: vives-ttn-01: -67; vives-ttn-03: -45; eui-1dee09c05d572b28: -96; eui-7276ff002e0627a3: -112
+
+F3: vives-ttn-01: -78; vives-ttn-03: -51; eui-1dee09c05d572b28: -96;
+F4: vives-ttn-01: -71; vives-ttn-03: -33; eui-1dee09c05d572b28: -84;
+F5: vives-ttn-01: -77; vives-ttn-03: -39; eui-1dee09c05d572b28: -84;
+F6: vives-ttn-01: -79; vives-ttn-03: -51; eui-1dee09c05d572b28: -87;
+
+F7: vives-ttn-01: -79; vives-ttn-03: -49; eui-1dee09c05d572b28: -94;
+F8: vives-ttn-01: -84; vives-ttn-03: -53; eui-1dee09c05d572b28: -102; eui-7276ff002e0627a3: -113
+F9: vives-ttn-01: -73; vives-ttn-03: -61; eui-1dee09c05d572b28: -91; eui-7276ff002e0627a3: -124; 0000024b080309d7: -121
+F10: vives-ttn-01: -75; vives-ttn-03: -59; eui-1dee09c05d572b28: -102; eui-7276ff002e0627a3: -109; 0000024b080309d7: -120
+
